@@ -1,1 +1,2 @@
 # Sensor_test
+#SGP40  SHT40 PM2012SE SENSOR
